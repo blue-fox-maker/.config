@@ -1,0 +1,4 @@
+{
+  "everforest-nvim": { "branch": "main", "commit": "63ea67d948ddbc9915055a815ca0686930dc73d5" },
+  "lazy.nvim": { "branch": "main", "commit": "28126922c9b54e35a192ac415788f202c3944c9f" }
+}

@@ -1,0 +1,18 @@
+theme = "transparent_everforest_dark"
+
+[editor]
+terminal.command = "fish"
+true-color = true
+mouse = false
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.gutters]
+layout = ["diagnostics","line-numbers","spacer"]
+
+[keys.normal]
+C-s = ":w"
+
